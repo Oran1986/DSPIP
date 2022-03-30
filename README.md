@@ -2,14 +2,15 @@
 Home Test
 
 
-In this project, it's possible to see my implementation of 3 Machine Learning Algorithms:
+This project shows the implementation of 3 Machine Learning Algorithms:
 Gradient Descent
 KNN
 Naive Bayes
 
-This project contains 4 files:
-KNN_and_Naive_Bayes is a python file that implements, how surprising: KNN and Naive Bayes
+4 files are within:
+KNN_and_Naive_Bayes is a python file that implements, how surprising: KNN and Naive Bayes algorithms
 GD_L2 is a python file that implements Gradient Descent, using L2 distance
+2 more excel files with the data required. both python files get the data by reading eat from the excel files.
 The KNN and Naive Bayes algorithms use the Iris dataset
 http://www.lac.inpe.br/~rafael.santos/Docs/CAP394/WholeStory-Iris.html
 
@@ -26,7 +27,7 @@ Over 400,000 iterations, one can see that the weights tend to achieve values tha
 The Gradient Descent achieved:
 W = [ 5.016,  1.511, 25.124] for area, balcony area and number of parking spots accordingly
 and b = 98.252
-While the dataset weights are:
+While the dataset weights used to create the data are as follows
 W = [5, 1.5, 25]
 and b = 100
 
